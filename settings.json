@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK SHITHEAD",
+    "username": "AFK",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "HavocSMP-gj1l.aternos.me",
     "port": 12150,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
