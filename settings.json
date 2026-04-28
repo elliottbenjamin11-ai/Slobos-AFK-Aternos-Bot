@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " Ijvgfjgfjfg.aternos.me",
+    "ip": "Ijvgfjgfjfg.aternos.me:44080",
     "port": 44080,
     "version": "1.21.1",
     "try-creative": false
