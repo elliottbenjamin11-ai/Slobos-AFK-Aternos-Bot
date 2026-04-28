@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HavocSMP-gj1l.aternos.me",
+    "ip": "HavocSMP-gj1l.aternos.me:12150",
     "port": 12150,
     "version": "1.21.1",
     "try-creative": false
