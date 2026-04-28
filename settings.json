@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "AFK SHITHEAD",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "HavocSMP-gj1l.aternos.m",
+    "ip": "HavocSMP-gj1l.aternos.me",
     "port": 12150,
     "version": "1.21.1",
     "try-creative": false
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
