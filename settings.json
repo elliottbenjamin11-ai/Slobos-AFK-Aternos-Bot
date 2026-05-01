@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HavocSMP-gj1l.aternos.me:12150",
-    "port": 12150,
+    "ip": "Fluxx-qt0E.aternos.me",
+    "port": 30272,
     "version": "1.21.1",
     "try-creative": false
   },
