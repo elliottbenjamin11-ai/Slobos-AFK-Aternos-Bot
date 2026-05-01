@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK N-WORD",
+    "username": "AFK",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Fluxx-qt0E.aternos.me",
     "port": 30272,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
